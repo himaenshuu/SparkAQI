@@ -26,7 +26,6 @@ The system includes visualization components to compare different prediction mod
 - Performance comparison across multiple algorithms
 - Error analysis and distribution visualization
 - Feature importance evaluation
-
 ## Getting Started
 
 ### Prerequisites
