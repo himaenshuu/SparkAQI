@@ -33,4 +33,3 @@ The system includes visualization components to compare different prediction mod
 
 - Apache Spark
 - Python 3.x
-- Required Python libraries (listed in requirements.txt)
