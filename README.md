@@ -4,7 +4,7 @@ A machine learning system for air quality index (AQI) prediction using Apache Sp
 
 ## Overview
 
-This project uses Spark MLlib to develop predictive models for air quality index forecasting. The system processes historical AQI data along with relevant environmental factors to make predictions about future air quality levels.
+This project uses Spark MLlib to develop predictive models for air quality index forecasting. The system processes historical AQI data along with relevant environmental factors to make predictions about future air quality levels
 
 ## Features
 
