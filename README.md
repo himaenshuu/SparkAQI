@@ -31,4 +31,4 @@ The system includes visualization components to compare different prediction mod
 ### Prerequisites
 
 - Apache Spark
-- Python 3.x
+- Python 3.9+
